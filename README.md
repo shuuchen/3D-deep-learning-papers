@@ -17,3 +17,35 @@ for single view 3D object shape prediction
 - [Triplet-Center Loss for Multi-View 3D Object Retrieval](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Triplet-Center_Loss_for_CVPR_2018_paper.pdf)
 - [Matryoshka Networks: Predicting 3D Geometry via Nested Shape Layers](http://openaccess.thecvf.com/content_cvpr_2018/papers/Richter_Matryoshka_Networks_Predicting_CVPR_2018_paper.pdf)
 - [A Papier-Mach ˆ e Approach to Learning 3D Surface Generation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)
+
+### ECCV 2018
+- [FloorNet: A Unified Framework for Floorplan
+Reconstruction from 3D Scans](http://openaccess.thecvf.com/content_ECCV_2018/papers/Chen_Liu_FloorNet_A_Unified_ECCV_2018_paper.pdf)
+- [Semantically Aware Urban 3D Reconstruction
+with Plane-Based Regularization](http://openaccess.thecvf.com/content_ECCV_2018/papers/Thomas_Holzmann_Semantically_Aware_Urban_ECCV_2018_paper.pdf)
+- [Learning Priors for Semantic 3D Reconstruction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ian_Cherabier_Learning_Priors_for_ECCV_2018_paper.pdf)
+- [GAL: Geometric Adversarial Loss for
+Single-View 3D-Object Reconstruction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Li_Jiang_GAL_Geometric_Adversarial_ECCV_2018_paper.pdf)
+- [Learning 3D Shapes as Multi-Layered
+Height-maps using 2D Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf)
+- [Recovering 3D Planes from a Single Image via
+Convolutional Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Fengting_Yang_Recovering_3D_Planes_ECCV_2018_paper.pdf)
+- [Simultaneous 3D Reconstruction for Water
+Surface and Underwater Scene](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yiming_Qian_Simultaneous_3D_Reconstruction_ECCV_2018_paper.pdf)
+- [Learning Shape Priors for
+Single-View 3D Completion and Reconstruction](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiajun_Wu_Learning_3D_Shape_ECCV_2018_paper.pdf)
+- [PSDF Fusion: Probabilistic Signed Distance
+Function for On-the-fly 3D Data Fusion and
+Scene Reconstruction
+](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei_Dong_Probabilistic_Signed_Distance_ECCV_2018_paper.pdf)
+- [3DFeat-Net: Weakly Supervised Local 3D
+Features for Point Cloud Registration](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zi_Jian_Yew_3DFeat-Net_Weakly_Supervised_ECCV_2018_paper.pdf)
+- [Learning to Reconstruct High-quality 3D Shapes
+with Cascaded Fully Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yan-Pei_Cao_Learning_to_Reconstruct_ECCV_2018_paper.pdf)
+- [3D Recurrent Neural Networks with Context
+Fusion for Point Cloud Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xiaoqing_Ye_3D_Recurrent_Neural_ECCV_2018_paper.pdf)
+- [Holistic 3D Scene Parsing and Reconstruction
+from a Single RGB Image](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siyuan_Huang_Monocular_Scene_Parsing_ECCV_2018_paper.pdf)
+- [Pixel2Mesh: Generating 3D Mesh Models
+from Single RGB Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf)
+
