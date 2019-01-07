@@ -49,3 +49,7 @@ from a Single RGB Image](http://openaccess.thecvf.com/content_ECCV_2018/papers/S
 - [Pixel2Mesh: Generating 3D Mesh Models
 from Single RGB Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf)
 
+### ICLR 2018
+- [Eidetic 3D LSTM: A Model for Video Prediction and Beyond](https://openreview.net/pdf?id=B1lKS2AqtX)
+- [Learning Localized Generative Models for 3D Point Clouds via Graph Convolution](https://openreview.net/pdf?id=SJeXSo09FQ)
+- [Deep Learning 3D Shapes Using Alt-az Anisotropic 2-Sphere Convolution](https://openreview.net/pdf?id=rkeSiiA5Fm)
