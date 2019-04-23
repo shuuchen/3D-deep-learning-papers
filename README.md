@@ -1,5 +1,17 @@
 # deep-learning-papers
 
+## CVPR 2019
+- [3D Point-Capsule Networks
+](https://arxiv.org/pdf/1812.10775.pdf)
+- [Visual Object Networks: Image Generation with
+Disentangled 3D Representation
+](https://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations.pdf)
+- [Deep Geometric Prior for Surface Reconstruction](https://arxiv.org/pdf/1811.10943.pdf)
+- [Robustness of 3D Deep Learning in an Adversarial Setting](https://arxiv.org/pdf/1904.00923.pdf)
+- [Disentangled Representation Learning for 3D Face Shape](https://arxiv.org/pdf/1902.09887.pdf)
+- [DeepCaps: Going Deeper with Capsule Networks
+](https://128.84.21.199/pdf/1904.09546.pdf)
+
 ## 3D vision papers
 ### CVPR 2018
 - [PointGrid: A Deep Network for 3D Shape Understanding](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf)
