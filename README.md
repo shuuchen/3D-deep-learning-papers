@@ -12,7 +12,6 @@ Disentangled 3D Representation
 - [DeepCaps: Going Deeper with Capsule Networks
 ](https://128.84.21.199/pdf/1904.09546.pdf)
 
-## 3D vision papers
 ### CVPR 2018
 - [PointGrid: A Deep Network for 3D Shape Understanding](http://openaccess.thecvf.com/content_cvpr_2018/papers/Le_PointGrid_A_Deep_CVPR_2018_paper.pdf)
 - [3D Semantic Segmentation with Submanifold Sparse Convolutional Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Graham_3D_Semantic_Segmentation_CVPR_2018_paper.pdf)
